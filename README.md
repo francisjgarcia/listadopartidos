@@ -6,7 +6,7 @@ Obtiene un listado de partidos según la web futbolenlatv.com filtrado por las c
 scripts/
 └── files
     ├── competiciones.txt
-    └──cambioletras
+    └── cambioletras.txt
 ```
 
 Tras ello, manda un mensaje en Telegram con cada uno de los partidos.
